@@ -1,0 +1,20 @@
+{
+    "map_info": {
+        "x": -1.399996280670166,
+        "y": -4.299996376037598,
+        "w": 196,
+        "h": 353,
+        "res": 0.05000000074505806
+    },
+    "view_state": {
+        "active_crop": false,
+        "crop_rect": null,
+        "crop_poly": null,
+        "scale": 1.0,
+        "offset": [
+            0,
+            0
+        ]
+    },
+    "is_cropped": false
+}
